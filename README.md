@@ -7,7 +7,7 @@ pip3 install -r requirements.txt
 
 all the dependencies now insatll
 
-cd website-project
+cd REST-api
 
 python3 manage.py runserver
 
